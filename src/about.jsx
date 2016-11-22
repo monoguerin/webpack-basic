@@ -7,7 +7,7 @@ require('./style.scss');
 class AboutUs extends React.Component {
   render () {
     return (
-      <div>About us</div>
+      <div>About Us</div>
     );
   }
 }
